@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Just A Little Test
+Just a test
 
 ## Environments
 - Preview: https://main--assets-example--samuelopra.hlx.page/
